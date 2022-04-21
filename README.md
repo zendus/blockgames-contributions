@@ -1,4 +1,4 @@
-# [BLOCKGAMES X ZURI X NESTCOIN] GAME PHASE CONTRIBUTIONS
+# BLOCKGAME GAME PHASE CONTRIBUTIONS
 
 A collection of all contributions made by me during the last three blockgames team project.
 
@@ -28,9 +28,10 @@ A collection of all contributions made by me during the last three blockgames te
 
 ## Project 3 [DAO-Voting]
 
-| Description                                                                  | Commit Link                                                                                                                                                                          |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Code Base setup and register participant feature implementation              | [https://github.com/team-shard/ballot-box/commit/df1a2de49302bd755ed6555cc8b6c1712a4d0f88](https://github.com/team-shard/ballot-box/commit/df1a2de49302bd755ed6555cc8b6c1712a4d0f88) |
-| Modified contestant struct and Updated winnerName function to return address | [https://github.com/team-shard/ballot-box/commit/a073b25d1feaaf8d7b8cad10a85d7048e73ccd4d](https://github.com/team-shard/ballot-box/commit/a073b25d1feaaf8d7b8cad10a85d7048e73ccd4d) |
-| Implemented getAllContestants and getTotalVoteCount feature                  | [https://github.com/team-shard/ballot-box/commit/a6dc6b675778680180ea56ece012bbee4c289745](https://github.com/team-shard/ballot-box/commit/a6dc6b675778680180ea56ece012bbee4c289745) |
-| Updated role assignment method for multiple addresses                        | [https://github.com/team-shard/ballot-box/commit/5b25e635154f82a8f1e190cae877c9ca7b97200d](https://github.com/team-shard/ballot-box/commit/5b25e635154f82a8f1e190cae877c9ca7b97200d) |
+| Description                                                                         | Commit Link                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Code Base setup and register participant feature implementation                     | [https://github.com/team-shard/ballot-box/commit/df1a2de49302bd755ed6555cc8b6c1712a4d0f88](https://github.com/team-shard/ballot-box/commit/df1a2de49302bd755ed6555cc8b6c1712a4d0f88) |
+| Modified contestant struct and Updated winnerName function to return address        | [https://github.com/team-shard/ballot-box/commit/a073b25d1feaaf8d7b8cad10a85d7048e73ccd4d](https://github.com/team-shard/ballot-box/commit/a073b25d1feaaf8d7b8cad10a85d7048e73ccd4d) |
+| Implemented getAllContestants and getTotalVoteCount feature                         | [https://github.com/team-shard/ballot-box/commit/a6dc6b675778680180ea56ece012bbee4c289745](https://github.com/team-shard/ballot-box/commit/a6dc6b675778680180ea56ece012bbee4c289745) |
+| Updated role assignment method for multiple addresses                               | [https://github.com/team-shard/ballot-box/commit/5b25e635154f82a8f1e190cae877c9ca7b97200d](https://github.com/team-shard/ballot-box/commit/5b25e635154f82a8f1e190cae877c9ca7b97200d) |
+| Wrote tests for deployment, register participants, getAllContestants and vote count | [https://github.com/team-shard/ballot-box/commit/e86b1ab360d133f91412605fbfae1c5543306fb1](https://github.com/team-shard/ballot-box/commit/e86b1ab360d133f91412605fbfae1c5543306fb1) |
