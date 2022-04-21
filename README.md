@@ -1,4 +1,4 @@
-# BLOCKGAME GAME PHASE CONTRIBUTIONS
+# BLOCKGAMES X ZURI X NESTCOIN GAME PHASE CONTRIBUTIONS
 
 A collection of all contributions made by me during the last three blockgames team project.
 
